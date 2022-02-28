@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fast_Food</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="username">username/email</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="mail_gmail_com">mail@gmail.com</string>
+    <string name="user">username</string>
+    <string name="choose_the_food_you_love">Choose the food you love</string>
+    <string name="search_food_item">search food item</string>
+    <string name="categories">Categories</string>
+    <string name="fries">Fries</string>
+    <string name="search">SEARCH</string>
+    <string name="cart">CART</string>
+    <string name="cart1">+ CART</string>
+</resources>
